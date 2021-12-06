@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+GenoVi.egg-info/PKG-INFO
+GenoVi.egg-info/SOURCES.txt
+GenoVi.egg-info/dependency_links.txt
+GenoVi.egg-info/requires.txt
+GenoVi.egg-info/top_level.txt
